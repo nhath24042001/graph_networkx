@@ -1,1 +1,1 @@
-# graph_networkx
+# Đồ án môn học Mạng Xã Hội
